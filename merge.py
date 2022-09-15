@@ -4,3 +4,6 @@ def emilys_function():
 
 def pat_testing():
     pass
+
+def beverly_testing():
+    pass
