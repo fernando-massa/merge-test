@@ -7,3 +7,6 @@ def pat_testing():
 
 def beverly_testing():
     pass
+
+def bris_test():
+    print('going to get strawberries if this works')
